@@ -61,31 +61,37 @@ main {
     padding-left: 50px;
 }
 
-h1 {
+h2 {
     color: var(--cor5);
     padding-left: 50px;
     padding-top: 30px;
     padding-bottom: 30px;
     font-family: var(--fonte2);
+    font-size: 2.5em;
 }
 
 p {
     color: var(--cor4);
     width: 280px;
     padding-left: 50px;
-    font-size: 15px;
+    font-size: 1em;
+    line-height: 25px;
     font-family: var(--fonte1);
 }
 
-button {
+a {
+    position: relative;
+    top: 40px;
     width: 150px;
     height: 50px;
-    border-radius: 40px;
-    font-size: 16px;
+    background-color: var(--cor5);
     border-style: none;
+    border-radius: 40px;
+    font-size: 1em;
     margin-left: 50px;
-    margin-top: 35px;
+    padding: 10px 25px 10px 25px;
     font-family: var(--fonte1);
+    text-decoration: none;
 }
 
 #b1 {
