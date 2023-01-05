@@ -61,6 +61,15 @@ main {
     padding-left: 50px;
 }
 
+h1 {
+    color: var(--cor5);
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: var(--fonte2);
+    font-size: 2.5em;
+}
+
 h2 {
     color: var(--cor5);
     padding-left: 50px;
