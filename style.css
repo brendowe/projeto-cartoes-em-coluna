@@ -79,7 +79,7 @@ p {
     font-family: var(--fonte1);
 }
 
-a {
+div a {
     position: relative;
     top: 40px;
     width: 150px;
